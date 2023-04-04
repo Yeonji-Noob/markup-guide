@@ -1,4 +1,4 @@
-# ✔Project-markup-guide
+# ✔Project-development-guide
 
 * 편하게 개발하기 위해서 스스로 정해둔 규칙들입니다 
 (어디까지나 개인 프로젝트에 해당)
